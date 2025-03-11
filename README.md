@@ -8,14 +8,14 @@
 
 ### 🧠 About Me:
 - 🌟 Data-driven professional passionate about transforming raw data into actionable insights.
-- 📊 Currently working on projects in Data Warehousing, Machine Learning, Optimization, and AI for Marketing.
+- 📊 Currently working on projects in Machine Learning, Optimization, AI for Marketing, and Data Warehousing.
 - 💼 Actively seeking **Summer 2025 internships** or **full-time roles** in Business Analytics, Data Analysis, or Financial Analytics.
 - ⚡ I’m constantly upgrading my skills in SQL, Python, R, ML modeling, and BI tools.
 
 ---
 
 ### 🔗 Let's Connect:
-[LinkedIn](https://www.linkedin.com/in/your-profile-url) • [Resume](LinkToYourResume.pdf) • [Portfolio Website (if any)](https://yourwebsite.com)
+[LinkedIn](https://www.linkedin.com/in/gokul-kumar-kesavan/) • [Resume](LinkToYourResume.pdf) • [Portfolio Website](https://yourwebsite.com)
 
 ---
 
@@ -36,11 +36,11 @@
 ### 📂 Projects You Can Explore:
 | Project | Summary |
 |--------|---------|
-| [Heart Disease Data Warehouse](GitHubLink) | PostgreSQL, dimensional modeling, CDC data |
-| [Federal Committee Contributions](GitHubLink) | Apache Spark, Political campaign data analytics |
-| [IPO Project Optimization](GitHubLink) | Simulation & Scenario analysis with @Risk |
-| [Capital Bikeshare ML Model](GitHubLink) | Classification models using Python |
-| [Walmart Marketing Strategy](GitHubLink) | AI/ML insights using KNN & Regression modeling |
+| [Capital Bikeshare ML Model](https://github.com/gokulkumar1014/Capital-Bikeshare-ML-Supervised) | Classification models using Python |
+| [Walmart Marketing Strategy](https://github.com/gokulkumar1014/Walmart-Rollback-Pricing-Strategy-Optimization) | AI/ML insights using KNN & Regression modeling |
+| [Federal Committee Contributions](https://github.com/gokulkumar1014/federal-committees-contribution-analysis) | Apache Spark, Political campaign data analytics |
+| [Operations Research Optimization Modeling Portfolio](https://github.com/gokulkumar1014/Operations-Research-Optimization-Modeling-Portfolio)) | Optimization & Scenario analysis with Python & Gurobi |
+| [Heart Disease Data Warehouse](https://github.com/gokulkumar1014/indicators-of-heart-disease) | PostgreSQL, dimensional modeling, CDC data |
 
 ---
 
