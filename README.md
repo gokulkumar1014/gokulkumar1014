@@ -39,7 +39,7 @@
 | [Capital Bikeshare ML Model](https://github.com/gokulkumar1014/Capital-Bikeshare-ML-Supervised) | Classification models using Python |
 | [Walmart Marketing Strategy](https://github.com/gokulkumar1014/Walmart-Rollback-Pricing-Strategy-Optimization) | AI/ML insights using KNN & Regression modeling |
 | [Federal Committee Contributions](https://github.com/gokulkumar1014/federal-committees-contribution-analysis) | Apache Spark, Political campaign data analytics |
-| [Operations Research Optimization Modeling Portfolio](https://github.com/gokulkumar1014/Operations-Research-Optimization-Modeling-Portfolio)) | Optimization & Scenario analysis with Python & Gurobi |
+| [Operations Research Optimization Modeling Portfolio](https://github.com/gokulkumar1014/Operations-Research-Optimization-Modeling-Portfolio) | Optimization & Scenario analysis with Python & Gurobi |
 | [Heart Disease Data Warehouse](https://github.com/gokulkumar1014/indicators-of-heart-disease) | PostgreSQL, dimensional modeling, CDC data |
 
 ---
