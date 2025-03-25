@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gokul Kumar Kesavan</h1>
 
 <p align="center">
-🎓 Master's in Business Analytics @ George Washington University | 📍 Based in Washington, D.C, USA.
+🎓 Master's in Business Analytics @ George Washington University | 📍 Based in Washington, D.C.
 </p>
 
 ---
