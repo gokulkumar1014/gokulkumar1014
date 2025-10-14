@@ -1,50 +1,52 @@
-<h1 align="center">Hi 👋, I'm Gokul Kumar Kesavan</h1>
-
+<h1 align="center">👋 Hi, I'm Gokul Kumar Kesavan</h1>
 <p align="center">
-🎓 Master's in Business Analytics @ George Washington University | 📍 Based in Washington, D.C.
+🎓 Master's in Business Analytics @ George Washington University  
+📍 Based in Washington, D.C. | 💼 Aspiring AI-Powered Business Analyst
 </p>
 
 ---
 
-### 🧠 About Me:
-- 🌟 Data-driven professional passionate about transforming raw data into actionable insights.
-- 📊 Currently working on projects in Machine Learning, Optimization, Investment Analysis & Portfolio Mgt, AI & Ml for Marketing Automation, and Data Warehousing.
-- 💼 Actively seeking **full-time roles** in Business Analytics, AI & ML Engineer or Data Analysis.
-- ⚡ I’m constantly upgrading my skills in SQL, Python, R, ML modeling, and BI tools.
+### 🧭 Who I Am
+I’m an engineer-turned-analyst passionate about turning **data and algorithms into strategic intelligence**.  
+From building AI-driven agents to modeling optimization systems, I bring together **technical depth** and **business reasoning** to create data products that *speak the language of decision-makers*.
+
+🔹 Currently: Designing a **Business Intelligence AI Agent** that connects structured (DuckDB) and unstructured (ChromaDB) data using **LangChain + LangGraph**.  
+🔹 Previously: Modeled supply chain optimization with Gurobi, predicted bike-share demand, and delivered analytics consulting for D.C. organizations.  
+🔹 Always: Curious about **agentic AI**, **LLMs**, **MLOps**, and the frontier of **decision intelligence**.
 
 ---
 
-### 🔗 Let's Connect:
-[LinkedIn](https://www.linkedin.com/in/gokul-kumar-kesavan/) • [Resume](https://drive.google.com/file/d/1_iw0GC7mL5wRv7e5ANSWw4boSxMaaX0a/view) • [Portfolio Website](https://gokulkumar1014.github.io/)
-
----
-
-### 💻 Tech Stack:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
----
-
-### 📂 Projects You Can Explore:
-| Project | Summary |
-|--------|---------|
-| [Capital Bikeshare ML Model](https://github.com/gokulkumar1014/Capital-Bikeshare-ML-Supervised) | Classification models using Python |
-| [Walmart Marketing Strategy](https://github.com/gokulkumar1014/Walmart-Rollback-Pricing-Strategy-Optimization) | AI/ML insights using KNN & Regression modeling |
-| [Federal Committee Contributions](https://github.com/gokulkumar1014/federal-committees-contribution-analysis) | Apache Spark, Political campaign data analytics |
-| [Operations Research Optimization Modeling Portfolio](https://github.com/gokulkumar1014/Operations-Research-Optimization-Modeling-Portfolio) | Optimization & Scenario analysis with Python & Gurobi |
-| [Heart Disease Data Warehouse](https://github.com/gokulkumar1014/indicators-of-heart-disease) | PostgreSQL, dimensional modeling, CDC data |
-
----
-
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokulkumar1014&show_icons=true&theme=radical" alt="Gokul's GitHub Stats" />
-</p>
+### 🧩 My Skill Graph
+```mermaid
+mindmap
+  root((Gokul's Skill Map))
+    Technical
+      Python
+      R
+      SQL
+      LangChain / LangGraph
+      PyTorch / TensorFlow
+      Scikit-Learn
+    Analytics
+      Machine Learning
+      Optimization Modeling
+      A/B Testing
+      Forecasting
+      RAG / Agentic AI
+    Visualization
+      ggplot2
+      Power BI
+      Tableau
+      Matplotlib
+    Data Systems
+      PostgreSQL
+      DuckDB
+      ChromaDB
+      Apache Spark
+      AWS EC2
+      Docker
+    Professional
+      Consulting & Market Research
+      Business Strategy
+      Stakeholder Communication
 
