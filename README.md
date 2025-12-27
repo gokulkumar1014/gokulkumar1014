@@ -21,7 +21,7 @@ Currently crafting **AI-powered analytical agents** and exploring **agentic AI, 
   <a href="https://www.linkedin.com/in/gokul-kumar-kesavan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:gokulkumar0639@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://gokulkumar1014.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/1tqsCjL-IY1aCcEKD8vFxMQxCcI33jn-3/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1gxmFwHQLd5RlSQPjMob6M1pZKe8kqk82/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 </p>
 
 ---
